@@ -1,2 +1,3 @@
 # hello-students
-My first repository
+
+Hi students! I like WordPress and Salesforce.
